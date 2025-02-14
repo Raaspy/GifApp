@@ -1,8 +1,48 @@
-# React + Vite
+# 🍽️ 🎭 **GifApp** - Explorador de GIFs en Tiempo Real
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GifApp es una aplicación web creada como un **proyecto de práctica** para fortalecer conocimientos en **JavaScript y React**. Permite a los usuarios buscar GIFs de forma dinámica e interactiva mediante la integración con la API de Giphy.
 
-Currently, two official plugins are available:
+## 📋 Tabla de Contenidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [⚙️ Estado del Proyecto](#️-estado-del-proyecto)
+- [✨ Características](#-características)
+- [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+- [🙏 Agradecimientos](#-instalación)
+
+---
+
+## ⚙️ Estado del Proyecto
+
+✅ GifApp está funcionando correctamente y disponible en línea. Puedes probarla en el siguiente enlace:
+
+🔗 /link
+
+---
+
+## ✨ Características
+
+El sistema incluye las siguientes funcionalidades:
+- 🔍 Búsqueda de GIFs por palabra clave.
+- 📺 Visualización en tiempo real de los resultados.
+- 🔄 Interfaz dinámica e interactiva desarrollada con React.
+- 🔗 Integración con la API de Giphy para obtener contenido actualizado.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+Este proyecto fue desarrollado utilizando:
+
+- ⚛️ **React:** Framework para la construcción de interfaces web interactivas.
+- 🌐 **JavaScript:** (ES6+) - Lenguaje de programación principal.
+- 🎨 **HTML & CSS:** Estructura y estilos de la aplicación.
+- 🔌 **API de Giphy:** Servicio externo para la obtención de GIFs.
+
+---
+
+## 🙏 Agradecimientos
+
+Este proyecto está inspirado en el curso de React impartido por [nombre del instructor o plataforma del curso].
+Agradezco enormemente el contenido educativo proporcionado, ya que me ha permitido mejorar mis habilidades en JavaScript y React a través de la práctica. 🚀
+
+---
