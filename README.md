@@ -1,4 +1,4 @@
-# 🍽️ 🎭 **GifApp** - Explorador de GIFs en Tiempo Real
+# 🎭 **GifApp** - Explorador de GIFs en Tiempo Real
 
 GifApp es una aplicación web creada como un **proyecto de práctica** para fortalecer conocimientos en **JavaScript y React**. Permite a los usuarios buscar GIFs de forma dinámica e interactiva mediante la integración con la API de Giphy.
 
@@ -15,7 +15,7 @@ GifApp es una aplicación web creada como un **proyecto de práctica** para fort
 
 ✅ GifApp está funcionando correctamente y disponible en línea. Puedes probarla en el siguiente enlace:
 
-🔗 /link
+🔗 [/link](https://gifpy-app.netlify.app/)
 
 ---
 
@@ -42,7 +42,7 @@ Este proyecto fue desarrollado utilizando:
 
 ## 🙏 Agradecimientos
 
-Este proyecto está inspirado en el curso de React impartido por [nombre del instructor o plataforma del curso].
+Este proyecto está inspirado en el curso de **React: De cero a experto ( Hooks y MERN )** impartido por **Fernando Herrera** en **Udemy**.
 Agradezco enormemente el contenido educativo proporcionado, ya que me ha permitido mejorar mis habilidades en JavaScript y React a través de la práctica. 🚀
 
 ---
