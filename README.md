@@ -15,7 +15,7 @@ GifApp es una aplicación web creada como un **proyecto de práctica** para fort
 
 ✅ GifApp está funcionando correctamente y disponible en línea. Puedes probarla en el siguiente enlace:
 
-🔗 [/link](https://gifpy-app.netlify.app/)
+-  [🔗 Link App](https://gifpy-app.netlify.app/)
 
 ---
 
