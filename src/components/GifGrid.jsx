@@ -12,7 +12,7 @@ export const GifGrid = ({ category }) => {
             }
             
 
-            <div className='.card-grid'>
+            <div className='card-grid'>
                 {
                     images.map( (image) => {
                         return <GifGridItem 
