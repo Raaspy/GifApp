@@ -15,7 +15,7 @@ GifApp es una aplicación web creada como un **proyecto de práctica** para fort
 
 ✅ GifApp está funcionando correctamente y disponible en línea. Puedes probarla en el siguiente enlace:
 
-🔗 [/link](https://gifpy-app.netlify.app/)
+-  [🔗 Link App](https://gifpy-app.netlify.app/)
 
 ---
 
@@ -42,7 +42,8 @@ Este proyecto fue desarrollado utilizando:
 
 ## 🙏 Agradecimientos
 
-Este proyecto está inspirado en el curso de **React: De cero a experto ( Hooks y MERN )** impartido por **Fernando Herrera** en **Udemy**.
+Este proyecto está inspirado en el curso de **React: De cero a experto ( Hooks y MERN )** impartido por **Fernando Herrera** en **[Udemy](https://www.udemy.com/user/550c38655ec11/?srsltid=AfmBOoq9xBVkdDb8wMdVObD9wLKF3DV-hBf-lNn8jkW7qDrj5fS1uoJi)**.
+
 Agradezco enormemente el contenido educativo proporcionado, ya que me ha permitido mejorar mis habilidades en JavaScript y React a través de la práctica. 🚀
 
 ---
