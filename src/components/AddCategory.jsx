@@ -26,7 +26,7 @@ export const AddCategory = ({ onNewCategory }) => {
         <form onSubmit={ onSubmit }>
             <input
                 type="text"
-                placeholder="Buscar Gifts"
+                placeholder="Buscar Gifs"
                 value={ inputValue }
                 onChange={ onInputChange } //Con esto podemos modificar y registrar los datos del usuario desde el input
             />

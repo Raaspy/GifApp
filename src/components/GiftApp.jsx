@@ -17,7 +17,7 @@ const GiftApp = () => {
     
     return (
         <>
-            <h1>Gift App</h1>
+            <h1>Gif App</h1>
 
             <AddCategory onNewCategory = { value => onAddCategory(value) }
             //setCategories={ setCategories } / Forma antigua
